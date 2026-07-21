@@ -1,5 +1,15 @@
 # Healthcare Content Management Assistant using RAG
 
+## Demo Video
+
+Watch the project demonstration here:
+
+https://drive.google.com/file/d/1GxfwK9hzdveFe_ZiCJuqospJo6btrV2F/view?usp=sharing
+
+## Project Report
+
+Healthcare_Content_Management_Report.pdf
+
 ## Overview
 
 This project is a proof-of-concept Healthcare Content Management Assistant developed using Generative AI and Retrieval-Augmented Generation (RAG).
@@ -91,3 +101,5 @@ streamlit run app.py
 **Dipa Khadka**
 
 Healthcare Content Management Assistant using Generative AI and Retrieval-Augmented Generation (RAG).
+
+
