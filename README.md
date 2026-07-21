@@ -6,9 +6,6 @@ Watch the project demonstration here:
 
 https://drive.google.com/file/d/1GxfwK9hzdveFe_ZiCJuqospJo6btrV2F/view?usp=sharing
 
-## Project Report
-
-Healthcare_Content_Management_Report.pdf
 
 ## Overview
 
